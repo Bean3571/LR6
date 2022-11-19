@@ -25,11 +25,11 @@
  
 * Загрузка изменений из удалённого репозитория в локальный
 
- ![4](https://user-images.githubusercontent.com/67775683/202867307-39887afc-3f94-4e72-be6c-2f7fcf0f234e.png)
+ ![7](https://user-images.githubusercontent.com/67775683/202867004-7189c1e4-a362-47ba-bd69-0d565fe09658.png)
  
 * Локальный репозиторий после изменений
 
- ![7](https://user-images.githubusercontent.com/67775683/202867004-7189c1e4-a362-47ba-bd69-0d565fe09658.png)
+ ![8](https://user-images.githubusercontent.com/67775683/202867012-1a3626a8-89d7-49aa-bfd8-bb5148fb4100.png)
  
 * Вывод последних изменений ветки master
 
