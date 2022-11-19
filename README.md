@@ -48,6 +48,7 @@
 * Удаление ветки branch1
 
  ![13](https://user-images.githubusercontent.com/67775683/202867071-bcc00f80-6305-402b-9b6e-917ab579d6c0.png)
+ ![18](https://user-images.githubusercontent.com/67775683/202867505-b21e0166-39cd-46d3-bd27-8d5604619644.png)
  
 * Создание 1 пстого файла
 
@@ -67,11 +68,11 @@
  
 * Создание папки screenshots с последующей загрузкой её в удалённый репозиторий в ветку otchet
 
- ![18](https://user-images.githubusercontent.com/67775683/202867505-b21e0166-39cd-46d3-bd27-8d5604619644.png)
+ ![19](https://user-images.githubusercontent.com/67775683/202867675-5c2f7022-ccf7-4d86-8ad4-137a1dbc9d4f.png)
  
 * Вывод всех коммитов в формате: сокращённый хэш + дата + имя автора + комментарий
 
- ![19](https://user-images.githubusercontent.com/67775683/202867675-5c2f7022-ccf7-4d86-8ad4-137a1dbc9d4f.png)
+ ![20](https://user-images.githubusercontent.com/67775683/202867779-f7d678db-0da2-449c-8281-def9e2d6b33c.png)
 
 
 ## Лог использованных комманд
