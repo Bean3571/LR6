@@ -10,6 +10,7 @@
 * Клонирование репозитория в свой аккаунт                       
                                                                
  ![3](https://user-images.githubusercontent.com/67775683/202867214-3cdb31cd-c6fb-47c4-83ae-a6cba9fc036f.png)
+ ![4](https://user-images.githubusercontent.com/67775683/202867373-3ef58606-5e36-4591-b63d-49da983121c5.png)
  
 * Загрузка репозитория на локальную систему
 
@@ -18,7 +19,6 @@
 * Создание файла как того требует тз
 
  ![6](https://user-images.githubusercontent.com/67775683/202867304-c374caaf-bc2d-4a38-b551-799e067dfea3.png)
- ![4](https://user-images.githubusercontent.com/67775683/202867373-3ef58606-5e36-4591-b63d-49da983121c5.png)
  
 * Локальный репозиторий до изменений
 
