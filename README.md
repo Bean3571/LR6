@@ -17,7 +17,7 @@
  
 * Создание файла как того требует тз
 
- ![4](https://user-images.githubusercontent.com/67775683/202866980-5d217a99-c231-451f-a505-2dde4578f117.png)
+ ![6](https://user-images.githubusercontent.com/67775683/202867304-c374caaf-bc2d-4a38-b551-799e067dfea3.png)
  
 * Локальный репозиторий до изменений
 
@@ -25,7 +25,7 @@
  
 * Загрузка изменений из удалённого репозитория в локальный
 
- ![6](https://user-images.githubusercontent.com/67775683/202866995-517ab2d0-8014-4026-bea4-029b99c23dd7.png)
+ ![4](https://user-images.githubusercontent.com/67775683/202867307-39887afc-3f94-4e72-be6c-2f7fcf0f234e.png)
  
 * Локальный репозиторий после изменений
 
