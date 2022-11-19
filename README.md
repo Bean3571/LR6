@@ -18,6 +18,7 @@
 * Создание файла как того требует тз
 
  ![6](https://user-images.githubusercontent.com/67775683/202867304-c374caaf-bc2d-4a38-b551-799e067dfea3.png)
+ ![4](https://user-images.githubusercontent.com/67775683/202867373-3ef58606-5e36-4591-b63d-49da983121c5.png)
  
 * Локальный репозиторий до изменений
 
