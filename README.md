@@ -34,43 +34,43 @@
  
 * Вывод последних изменений ветки master
 
- ![8](https://user-images.githubusercontent.com/67775683/202867012-1a3626a8-89d7-49aa-bfd8-bb5148fb4100.png)
+ ![9](https://user-images.githubusercontent.com/67775683/202867018-04233269-2873-4da2-9e02-fb08c0467930.png)
  
 * Вывод последних изменений ветки branch1
 
- ![9](https://user-images.githubusercontent.com/67775683/202867018-04233269-2873-4da2-9e02-fb08c0467930.png)
+ ![10](https://user-images.githubusercontent.com/67775683/202867023-2813a181-8f39-4ade-b1e1-e6d74f9bee49.png)
  
 * Слияние веток с решением конфликта
 
- ![10](https://user-images.githubusercontent.com/67775683/202867023-2813a181-8f39-4ade-b1e1-e6d74f9bee49.png)
+ ![11](https://user-images.githubusercontent.com/67775683/202867026-651e78d0-a691-4930-913b-4036248c38ee.png)
  
 * Удаление ветки branch1
 
- ![11](https://user-images.githubusercontent.com/67775683/202867026-651e78d0-a691-4930-913b-4036248c38ee.png)
+ ![12](https://user-images.githubusercontent.com/67775683/202867060-035bcc7b-e203-433c-b2c3-62a30acd122e.png)
  
 * Создание 1 пстого файла
 
- ![12](https://user-images.githubusercontent.com/67775683/202867060-035bcc7b-e203-433c-b2c3-62a30acd122e.png)
+ ![13](https://user-images.githubusercontent.com/67775683/202867071-bcc00f80-6305-402b-9b6e-917ab579d6c0.png)
  
 * Создание 2 пустого файла
 
- ![13](https://user-images.githubusercontent.com/67775683/202867071-bcc00f80-6305-402b-9b6e-917ab579d6c0.png)
+ ![14](https://user-images.githubusercontent.com/67775683/202867078-4dd668f4-7db5-42d9-9670-0d32dfd5cba7.png)
  
 * Откат последнего коммита
 
- ![14](https://user-images.githubusercontent.com/67775683/202867078-4dd668f4-7db5-42d9-9670-0d32dfd5cba7.png)
+ ![15](https://user-images.githubusercontent.com/67775683/202867086-8012ffd0-26f5-42cd-8f1a-4312271c1410.png)
  
 * Создание ветки otchet
 
- ![15](https://user-images.githubusercontent.com/67775683/202867086-8012ffd0-26f5-42cd-8f1a-4312271c1410.png)
+ ![16](https://user-images.githubusercontent.com/67775683/202867094-a12b3dbf-c7e0-4c32-98a8-6548dcbf1b1a.png)
  
 * Создание папки screenshots с последующей загрузкой её в удалённый репозиторий в ветку otchet
 
- ![16](https://user-images.githubusercontent.com/67775683/202867094-a12b3dbf-c7e0-4c32-98a8-6548dcbf1b1a.png)
+ ![17](https://user-images.githubusercontent.com/67775683/202867103-59c77f81-8e8d-479f-83e9-0f2900e537a8.png)
  
 * Вывод всех коммитов в формате: сокращённый хэш + дата + имя автора + комментарий
 
- ![17](https://user-images.githubusercontent.com/67775683/202867103-59c77f81-8e8d-479f-83e9-0f2900e537a8.png)
+ ![18](https://user-images.githubusercontent.com/67775683/202867505-b21e0166-39cd-46d3-bd27-8d5604619644.png)
 
 
 ## Лог использованных комманд
