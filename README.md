@@ -9,11 +9,11 @@
  
 * Клонирование репозитория в свой аккаунт                       
                                                                
- ![2](https://user-images.githubusercontent.com/67775683/202866965-10afbb9e-2be8-4fb4-8bec-a42490ca5f72.png)
+ ![3](https://user-images.githubusercontent.com/67775683/202867214-3cdb31cd-c6fb-47c4-83ae-a6cba9fc036f.png)
  
 * Загрузка репозитория на локальную систему
 
- ![3](https://user-images.githubusercontent.com/67775683/202866975-10b90bc9-e9d1-479e-b416-ddf867ef5fd6.png)
+ ![2](https://user-images.githubusercontent.com/67775683/202867221-2a810b20-8f0e-439e-9d15-7d552522a536.png)
  
 * Создание файла как того требует тз
 
