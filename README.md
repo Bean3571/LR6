@@ -65,6 +65,7 @@
 * Создание ветки otchet
 
  ![17](https://user-images.githubusercontent.com/67775683/202867103-59c77f81-8e8d-479f-83e9-0f2900e537a8.png)
+ ![20](https://user-images.githubusercontent.com/67775683/202867779-f7d678db-0da2-449c-8281-def9e2d6b33c.png)
  
 * Создание папки screenshots с последующей загрузкой её в удалённый репозиторий в ветку otchet
 
@@ -72,7 +73,7 @@
  
 * Вывод всех коммитов в формате: сокращённый хэш + дата + имя автора + комментарий
 
- ![20](https://user-images.githubusercontent.com/67775683/202867779-f7d678db-0da2-449c-8281-def9e2d6b33c.png)
+ ![21](https://user-images.githubusercontent.com/67775683/202867826-0e84270e-6682-48f9-ac8d-87a84a877a45.png)
 
 
 ## Лог использованных комманд
